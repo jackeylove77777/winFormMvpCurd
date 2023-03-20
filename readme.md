@@ -4,6 +4,6 @@
 
 mvp架构图
 
-![](E:\Projects\winformCurd\mvp.png)
+![](.\mvp.png)
 
 
